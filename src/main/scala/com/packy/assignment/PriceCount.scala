@@ -1,4 +1,4 @@
-package com.packy.assigment
+package com.packy.assignment
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.{SparkConf, SparkContext}
